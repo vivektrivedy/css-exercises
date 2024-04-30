@@ -1,0 +1,33 @@
+.common.button1 {
+    background-color: black;
+    color:white;
+    /* bold */
+    font-weight: bold;
+}
+
+.common.button2 {
+    background-color: yellow;
+    color:black;
+}
+
+.common {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+/* Recommended solution below
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.fancy {
+  background-color: yellow;
+} */
